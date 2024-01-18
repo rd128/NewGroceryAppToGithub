@@ -1,0 +1,8 @@
+
+<suite name="payrollproject">
+	<test name="myTest">
+		<classes>
+			<class name="groceryTestCases.LoginTestCase"></class>
+		</classes>
+	</test>
+</suite>
